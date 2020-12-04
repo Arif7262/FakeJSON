@@ -1,0 +1,88 @@
+{
+	"InspectionSheet" : {
+		"PartName"			: "Lead Wire Assy",
+		"PartCode"			: "QW-VZB970QBZZ",
+		"Color"				: "Red",
+		"LotInspection"		: 5,
+		"Supplier"			: ["Haengsung Raya Indonesia"],
+		"SupplierInspector"	: ["Tatang"],
+		"SupplierChecker"	: ["Herdi"],
+		"SupplierApproval"	: ["Budi S"],
+		"InspectionItems"	: [
+		{
+			"Name"			: "Kondisi Kabel",
+			"Category"		: "Appearance",
+			"Description"	: "Tidak putus, terkelupas, discolor"
+		},
+		{
+			"Name"			: "Assembly kabel ke housing",
+			"Category"		: "Appearance",
+			"Description"	: "Locked"
+		},
+		{
+			"Name"			: "Point 1",
+			"Category"		: "Dimension",
+			"Value"			: 40,
+			"Minimum"		: 35,
+			"Maximum"		: 45,
+			"Unit"			: "mm",
+			"Description"	: "Dari Ujung Housing ke Awal tube",
+			"Image"			: "1.jpg"
+		},
+		{
+			"Name"			: "Point 2",
+			"Category"		: "Dimension",
+			"Value"			: 140,
+			"Minimum"		: 135,
+			"Maximum"		: 145,
+			"Unit"			: "mm",
+			"Description"	: "Dari Ujung Housing ke Awal tube",
+			"Image"			: "1.jpg"
+		},
+		{
+			"Name"			: "Point 3",
+			"Category"		: "Dimension",
+			"Value"			: 170,
+			"Minimum"		: 165,
+			"Maximum"		: 175,
+			"Unit"			: "mm",
+			"Description"	: "Dari Ujung Housing ke Awal tube",
+			"Image"			: "1.jpg"
+		},
+		{
+			"Name"			: "Point 4",
+			"Category"		: "Dimension",
+			"Value"			: 145,
+			"Minimum"		: 140,
+			"Maximum"		: 150,
+			"Unit"			: "mm",
+			"Description"	: "Dari Ujung Housing ke Awal tube",
+			"Image"			: "1.jpg"
+		},
+		{
+			"Name"			: "Point 5",
+			"Category"		: "Dimension",
+			"Value"			: 75,
+			"Minimum"		: 70,
+			"Maximum"		: 80,
+			"Unit"			: "mm",
+			"Description"	: "Dari tape ke tube",
+			"Image"			: "1.jpg"
+		},
+		{
+			"Name"			: "Point 6",
+			"Category"		: "Dimension",
+			"Value"			: 420,
+			"Minimum"		: 410,
+			"Maximum"		: 430,
+			"Unit"			: "mm",
+			"Description"	: "Total Potongan Tube",
+			"Image"			: "1.jpg"
+		},
+		{
+			"Name"			: "Pin to Pn",
+			"Category"		: "Function",
+			"Description"	: "Tidak silang & connect",
+		}]
+	}
+}
